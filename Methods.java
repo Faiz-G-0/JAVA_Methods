@@ -12,6 +12,21 @@ public class Methods {
         System.out.println("Hello "+ name);
         
      }
+     // public static void Greet() {
+    //     System.out.println("Hello");
+        
+    // }
+    // public static void Sum(int a1,int a2) {
+    //     System.out.println("Sum is:"+(a1+a2));
+                   
+    // } 
+    // public static void Table(int n) {
+    //     for (int i = 1; i < 10; i++) {
+    //         System.out.println(n+"*"+i+"="+(n*i));
+             //}
+    //     }
+        
+     // hello added new comments
     
 }
 
